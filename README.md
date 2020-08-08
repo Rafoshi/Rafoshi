@@ -2,7 +2,7 @@
 
 ## I'm currently studying on technical course of systems development
 
--   📚 I’m currently learning the fundamentals and focus on front-end
+-   📚 I’m learning the fundamentals and focus on front-end
 
 ### Connect with me & other projects on:
 
