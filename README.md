@@ -12,4 +12,3 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/rafael-ioshi-imamura-pereira-97820b1a9/
-[codepen]: https://codepen.io/rafoshi
