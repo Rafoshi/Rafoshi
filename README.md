@@ -20,8 +20,9 @@
  </div>
  
 ### Studying in this moment:
-SAPUI5
-SPRING BOOT
-KOTLIN
+FLUTTER |
+SAPUI5 |
+SPRING BOOT |
+KOTLIN |
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1260cc&height=120&section=footer"/>
